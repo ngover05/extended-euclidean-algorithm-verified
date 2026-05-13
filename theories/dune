@@ -1,7 +1,7 @@
 (include_subdirs qualified)
 
 (rocq.theory
- (name PROJECT)
- (package PROJECT)
+ (name euclidean)
+ (package euclidean)
  (modules :standard)
  (theories Stdlib))
